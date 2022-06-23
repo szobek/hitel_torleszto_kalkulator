@@ -189,3 +189,12 @@ span.place-holder{
     color: #727272;
 
 }
+.line{
+    background-color: var(--bg2);
+    height: 7px;
+    width: 930px;
+}
+
+.table th{
+    border-top: none !important;
+}
